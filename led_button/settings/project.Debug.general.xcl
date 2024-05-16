@@ -1,0 +1,15 @@
+"C:\tools\IAR\arm\bin\armproc.dll" 
+
+"C:\tools\IAR\arm\bin\armlmiftdi.dll" 
+
+"C:\embedded_programming\led_button\Debug\Exe\project.out" 
+
+--plugin="C:\tools\IAR\arm\bin\armbat.dll" 
+
+--device_macro="C:\tools\IAR\arm\config\debugger\TexasInstruments\LM4F.dmac" 
+
+--flash_loader="C:\tools\IAR\arm\config\flashloader\TexasInstruments\FlashLM4FxxxHxx.board" 
+
+
+
+
