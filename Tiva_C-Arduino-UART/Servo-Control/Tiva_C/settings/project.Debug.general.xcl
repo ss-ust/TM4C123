@@ -1,0 +1,15 @@
+"C:\tools\IAR\arm\bin\armproc.dll" 
+
+"C:\tools\IAR\arm\bin\armlmiftdi.dll" 
+
+"C:\Users\Suleyman\Desktop\Tiva_C-Arduino_UART\Servo-Control\Tiva_C\Debug\Exe\project.out" 
+
+--plugin="C:\tools\IAR\arm\bin\armbat.dll" 
+
+--device_macro="C:\tools\IAR\arm\config\debugger\TexasInstruments\LM4F.dmac" 
+
+--flash_loader="C:\tools\IAR\arm\config\flashloader\TexasInstruments\FlashLM4FxxxHxx.board" 
+
+
+
+

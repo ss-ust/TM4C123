@@ -1,0 +1,408 @@
+[
+  {
+    "ID": "c:@F@configure_pins",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void configure_pins(void)",
+    "location": {
+      "column": "6",
+      "line": "3",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\main.c"
+    },
+    "name": "configure_pins",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@configure_uart",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void configure_uart(void)",
+    "location": {
+      "column": "6",
+      "line": "4",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\main.c"
+    },
+    "name": "configure_uart",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@uart_transmit",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void uart_transmit(char)",
+    "location": {
+      "column": "6",
+      "line": "5",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\main.c"
+    },
+    "name": "uart_transmit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "7",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@181@F@main@state1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "state1",
+    "location": {
+      "column": "7",
+      "line": "12",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\main.c"
+    },
+    "name": "state1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@181@F@main@state2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "state2",
+    "location": {
+      "column": "15",
+      "line": "12",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\main.c"
+    },
+    "name": "state2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@configure_pins",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void configure_pins(void)",
+    "location": {
+      "column": "6",
+      "line": "29",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\main.c"
+    },
+    "name": "configure_pins",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@configure_uart",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void configure_uart(void)",
+    "location": {
+      "column": "6",
+      "line": "59",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\main.c"
+    },
+    "name": "configure_uart",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@uart_transmit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void uart_transmit(char)",
+    "location": {
+      "column": "6",
+      "line": "80",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\main.c"
+    },
+    "name": "uart_transmit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@8@macro@RCGC_GPIO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGC_GPIO",
+    "location": {
+      "column": "9",
+      "line": "1",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "RCGC_GPIO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@56@macro@RCGC_UART",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCGC_UART",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "RCGC_UART",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@106@macro@GPIO_LOCK_D",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_LOCK_D",
+    "location": {
+      "column": "9",
+      "line": "4",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_LOCK_D",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@156@macro@GPIO_LOCK_F",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_LOCK_F",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_LOCK_F",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@208@macro@GPIO_OCR_D",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_OCR_D",
+    "location": {
+      "column": "9",
+      "line": "7",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_OCR_D",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@257@macro@GPIO_OCR_F",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_OCR_F",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_OCR_F",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@308@macro@GPIO_AFSEL_D",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_AFSEL_D",
+    "location": {
+      "column": "9",
+      "line": "10",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_AFSEL_D",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@359@macro@GPIO_PCTL_D",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PCTL_D",
+    "location": {
+      "column": "9",
+      "line": "11",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_PCTL_D",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@411@macro@GPIO_DATA_F",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_DATA_F",
+    "location": {
+      "column": "9",
+      "line": "13",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_DATA_F",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@461@macro@GPIO_DIR_F",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_DIR_F",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_DIR_F",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@512@macro@GPIO_DEN_D",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_DEN_D",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_DEN_D",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@561@macro@GPIO_DEN_F",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_DEN_F",
+    "location": {
+      "column": "9",
+      "line": "17",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_DEN_F",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@612@macro@GPIO_PUR_F",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PUR_F",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "GPIO_PUR_F",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@663@macro@UART2_CTL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART2_CTL",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "UART2_CTL",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@711@macro@UART2_LCRH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART2_LCRH",
+    "location": {
+      "column": "9",
+      "line": "22",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "UART2_LCRH",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@762@macro@UART2_IBRD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART2_IBRD",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "UART2_IBRD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@811@macro@UART2_FBRD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART2_FBRD",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "UART2_FBRD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@860@macro@UART2_CC",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART2_CC",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "UART2_CC",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@907@macro@UART2_FR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART2_FR",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "UART2_FR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:pins.h@954@macro@UART2_DATA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART2_DATA",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "C:\\Users\\Suleyman\\Desktop\\Tiva_C-Arduino_UART\\Servo-Control\\Tiva_C\\pins.h"
+    },
+    "name": "UART2_DATA",
+    "origin": "user_include",
+    "scope": null
+  }
+]
